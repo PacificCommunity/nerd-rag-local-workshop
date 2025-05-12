@@ -1,0 +1,134 @@
+code_in_stat,full_label
+SG_INF_ACCSS,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
+SG_STT_FPOS,Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics
+SG_REG_BRTHDETH,Proportion of countries that have achieved 100 per cent birth registration and 80 per cent death registration
+VA_EST,WGI: Voice and Accountability
+PV_EST,WGI: Political Stability and Absence of Violence/Terrorism
+GE_EST,WGI: Government Effectiveness
+RQ_EST,WGI: Regulatory Quality
+RL_EST,WGI: Rule of Law
+CC_EST,WGI: Control of Corruption
+SG_GEN_PARL,Proportion of seats held by women in national parliaments
+SG_PLN_RECNDI,Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient 
+DC_TRF_TOTL,"Total assistance for development, by recipient countries"
+DC_ODA_SIDS,"Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries "
+BPI_CMH,Service coverage for mental health (TBD)
+SPC_4_7_1,"Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment. (no data)"
+SG_REG_BRTH,Proportion of children under 5 years of age whose births have been registered with a civil authority
+VC_VOV_PHYL,Proportion of population subjected to physical violence in the previous 12 months
+SG_LGL_GENEQLFP,"Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) - Area 1: overarching legal frameworks and public life"
+SH_STA_MORT,Maternal mortality
+SH_DYN_MORT,Under-five mortality rate
+BPI_MANAL1,Multi-sectoral NCD taskforce (MANA L1)
+SH_TBS_INCD,Tuberculosis incidence
+SH_STA_MALR,"Malaria incidence per 1,000 population at risk"
+SH_DTH_NCD,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+SH_STA_WASH,"Mortality rate attributable to unsafe water, sanitation and lack of hygiene"
+VC_VOV_ROBB,Proportion of population subjected to robbery in the previous 12 months
+SG_LGL_GENEQVAW," Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) - Area 2: violence against women"
+SG_LGL_GENEQEMP,"Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) - Area 3: employment and economic benefits"
+VC_VOV_SEXL,Proportion of population subjected to sexual violence in the previous 12 months
+SE_TOT_PRFL,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics
+SH_H2O_IMPR,Population using an improved drinking water source
+SE_GC_TCAQ,Trained teachers Key indicator (primary and secondary)
+SH_IHR_CAPS,International Health Regulations (IHR) capacity
+SPC_3_8_1,Coverage of essential health services
+SP_DYN_ADKL,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) "
+SPC_4_6_1,Proportion of population in a given age group achieving at least a fixed level of proficiency in literacy and numeracy skills
+SH_HIV_INCD,"Number of new HIV infections  per 1,000 uninfected population "
+BPI_MANASL2,National strategy addressing NCDs and risk factors.(MANA L2). 
+BPI_MANAGL2,National guidelines for care of main NCDs (MANA L2)
+CR_3,"Completion rate, upper secondary"
+SE_ACS_ELECT,Proportion of schools with access to electricity
+SE_ACS_CMPTR,Proportion of schools with access to computers for pedagogical purposes
+SE_ACS_H2O,Proportion of schools with access to basic drinking water
+SE_ACC_HNDWSH,Proportion of schools with basic handwashing facilities
+SE_ACS_INTNT,Proportion of schools with access to the internet for pedagogical purposes
+SE_ACS_SANIT,Proportion of schools with access to single-sex basic sanitation
+SG_LGL_GENEQMAR,"Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) - Area 4: marriage and family"
+SH_FPL_MTMM,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (key indicator)
+SP_DYN_ADKL,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) "
+VC_VAW_MARR,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months
+SPC_5_2_2, Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner
+VC_VOV_PSYCHL,Proportion of population subjected to psychological violence in the previous 12 months
+SG_GEN_PARL,Proportion of seats held by women in national parliaments
+IC_GEN_MGTL,Proportion of women in managerial positions - 13th ICLS
+SH_FPL_INFM,"Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)"
+SPC_PROXY_3,Existence of implementation plan for the different UN Treaty Body recommendations and Universal Periodic Review (UPR) recommendations which are fully or partially resourced 
+SPC_5_a_2,Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control.
+SI_COV_BENFTS,Proportion of population covered by at least one social protection benefit 
+SH_MED_DEN,Health worker density
+BPI_MANAP1,Compulsory physical education in school curriculum (MANA P1)
+BPI_MANAF5,Healthy food policies in schools (MANA F5)
+SE_ACS_DISAB,Proportion of schools with access to adapted infrastructure and materials for students with disabilities 
+SPC_6_3_1,Proportion of wastewater safely treated. 
+SL_TLF_NEET,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS"
+SH_ALC_CONSPT,Alcohol consumption per capita (aged 15 years and older) within a calendar year 
+SE_PRE_PARTN,Participation rate in organised learning (one year before the official primary entry age)
+SH_PRV_SMOK,Age-standardised prevalence of current tobacco use among persons aged 15 years and older
+SH_STA_BRTC,Proportion of births attended by skilled health personnel. 
+SH_SAN_SAFE,Proportion of population using safely managed sanitation services
+GER_5T8,Gross enrolment ratio for tertiary education
+SPC_16_3_1,Proportion of victims who reported their victimisation to authorities
+SI_POV_DAY1,Proportion of population below international poverty line
+SI_POV_NAHC,Proportion of population living below the national poverty line
+SL_DOM_TSPD,Proportion of time spent on unpaid domestic and care work
+SPC_PROXY_1,"Countries with a reproductive health policy, guidelines, and protocols for service delivery fully or partially resourced (Pacific Proxy). (no data)"
+EG_ACS_ELEC,Proportion of population with access to electricity.
+NY_GDP_PCAP,Annual growth rate of real GDP per capita
+FB_BNK_ACCSS,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider
+SL_EMP_EARN,Average hourly earnings
+SL_TLF_UEM,Unemployment rate
+SL_TLF_NEET,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS"
+SPC_16_6_1,Primary government expenditure as a proportion of original approved budget
+GR_G14_GDP,Total government revenue as a proportion of GDP
+GC_GOB_TAXD,Proportion of domestic budget funded by domestic taxes.
+DT_TDS_DECT,Debt service as a proportion of exports of goods and services
+PSD2GDP,Public Sector Debt % of GDP
+SPC_17_3_1,"Foreign direct investment (FDI), official development assistance, and South-South cooperation"
+GR_G14_GDP,Total government revenue as a proportion of GDP
+SPC_8_9_1,Tourism as a proportion of total GDP
+SL_TLF_MANF,Manufacturing employment as a proportion of total employment - 13th ICLS (%) 
+ST_EEV_ACCSEEA,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)
+SPC_8_9_1,Tourism as a proportion of total GDP
+SI_RMT_COST,Remittance costs as a proportion of the amount remitted
+BX_TRF_PWKR,Volume of remittances (in United States dollars) as a proportion of total GDP
+VC_DSR_AFFCT,Number of people affected by disaster
+VC_DSR_LSGP,Direct economic loss attributed to disasters relative to GDP
+EG_FEC_RNEW,Renewable energy share in the total final energy consumption
+SPC_7_b_1,Installed renewable electricity-generating capacity (watts per capita) 
+SPC_11_b_2,Proportion of local governments that adopt and implement local disaster risk reduction strategies
+SG_DSR_LEGREG,Countries with legislative and/or regulatory provisions been made for managing disaster risk
+SPC_PROXY_2,"Proportion of the national budget allocated to culture, including for protection, preservation (heritage), and promotion "
+AG_PRD_FIESMS,Prevalence of moderate or severe food insecurity in the population
+SPC_1_2_2,Proportion of population living in poverty in all its dimensions according to national definitions
+ER_H2O_FWTL,Proportion of fish stocks within biologically sustainable levels (not overexploited) 
+ER_MRN_MARINKBA,Protected area coverage for marine (Key Biodiversity Area)
+SPC_14_6_1,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest) "
+SPC_14_b_1,Degree of application of a legal/regulatory/ policy/institutional framework which recognises and protects access rights for small-scale fisheries.
+SPC_2_4_1,Proportion of agricultural area under productive and sustainable agriculture
+ER_GRF_PLNTSTOR,Plant genetic resources accessions stored ex situ (number)
+ER_PTD_TOT,Average proportion of Freshwater and Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
+ER_RSK_LST,Red List Index
+SPC_15_8_1,Countries adopting legislation for the prevention or control of invasive alien species
+SI_HEI_TOTL,Growth rates of household expenditure or income per capita
+SPC_12_5_1,Municipal waste recycled (Tonnes)
+EN_MAR_BEALITSQ,Beach litter per square kilometer (Number)
+IT_NET_BBND,Fixed Internet broadband subscriptions per 100 inhabitants
+IT_USE_ii99,Proportion of individuals using the Internet
+IT_MOB_OWN,Proportion of individuals who own a mobile telephone
+IT_MOB_4GNTWK,Proportion of population covered by at least a 4G mobile network
+BPI_NRM,Number of reported maritime search and rescue incidents per year
+BPI_NRF,"Number of road fatalities per 10,000 registered vehicles"
+MAILFILE,"Proportion of individuals who sent e-mail with a file (e.g. document, picture or video)"
+DOWNSOFT,"Proportion of individuals who found, downloaded, installed & configured software"
+BPI_LSC,Liner Shipping Connectivity Index
+BPI_PAU,Proportion of airports with unpaved runways
+BPI_PRU,Proportion of roads unpaved
+EGI,E-governance Index
+OSI,Online service Index
+NCSI_RANK,National Cyber Security Index
+NCSI_POLI,Cybersecurity Policy
+SPC_13_b_1,Number of least developed countries and small island developing States receiving support climate change
+SPC_14_2_1,Proportion of national exclusive economic zones managed using ecosystem-based approaches
+SPC_12_4_2,"Hazardous waste generated, per capita (Kg) "
