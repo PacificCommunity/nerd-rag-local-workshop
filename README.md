@@ -33,10 +33,23 @@ If you just want to watch me/your workshop buddy to code, you don't need anythin
 
 ### Ollama
 
-For Windows/Linux/macOS:
+For Windows
 - Download and install from official website: https://ollama.com/download
-- open your terminal and start Ollama run `ollama serve` (that is, type those words in the terminal and then press enter)
-  - if you are in Windows and it doesn work, you might need to run `systemctl start ollama`(type them and press enter)
+  - when done, you should have a little llama living in your application bar, can you find it?
+  - if so, open a terminal and let's start to collect some models
+  - run `ollama pull qwen3:0.6b`  
+  - run `ollama pull nomic-embed-text`  
+  - run `ollama pull snowflake-arctic-embed2`
+- to run an AI model in the terminal (we won't need this, but it's a way to check everything is installed):
+  - in a terminal, run `ollama run qwen3:0.6b`
+  - chat!
+  - when you are happy, run `/bye` to quit
+  
+In Linux/macOS. You might be more experience than me in your system setup, so take the following as unrequested suggestions.
+If you are using a package manager, you should be able to install ollama without further ado.
+If you try to pull a model and you get an error message, it might be the case that the ollama daemon is not working.
+- try running `ollama serve` and pull a model again. did it work?
+- if not, you might need to start the ollama service, try runing `systemctl start ollama`(type them and press enter)
 - to install AI models in your computer so they will be available for us, you need to "pull" them:
   - open another terminal WITHOUT closing the one where you are running `ollama serve`
   - in this terminal, run `ollama pull qwen3:0.6b`  
