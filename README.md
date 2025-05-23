@@ -19,6 +19,8 @@ The two hour plan is:
 
 ## Setup
 
+You might need an admin password for your laptop! Keep it hand, or ask IT to help with that!
+
 A bunch of things are needed for running it all. And it would be amazing if people could run them before coming to the workshop, so we don' need to spend too much time on environment setup. THAT SAID, envinroment setup IS the hardest part, probably, and it's where all the magic goes on.
 
 What do you need if you want to code along me:
@@ -101,5 +103,5 @@ You _should_ be able to install everything following these steps:
 
 ### Trouble shooting
 
-If you are using Windows, with a bash terminal (e.g., git-bash)
-WIP
+If in windows you encounter the error "microsoft visual c++ 14.0 or greater is required pip install" this video shows how to fix it:
+https://www.youtube.com/watch?v=QyY_vJeXEFc (ht to Samantha)
