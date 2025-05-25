@@ -1,0 +1,4 @@
+[PromptingTools]
+MODEL_CHAT = "qwen3:0.6b"
+MODEL_EMBEDDING = "nomic-embed-text"
+PROMPT_SCHEMA = "OllamaSchema"

@@ -1,5 +1,9 @@
 [deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 DuckDB = "d2f5444f-75bc-4fdf-ac35-56f514c445e1"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+Oxygen = "df9a0d86-3283-4920-82dc-4555fc0d1d8b"
 PromptingTools = "670122d1-24a8-4d70-bfce-740807c42192"
 RAGTools = "16ddad29-bbe8-45a7-857d-3d9514eb0023"
 Tidier = "f0413319-3358-4bb0-8e7c-0c83523a93bd"
