@@ -9,7 +9,7 @@ labels = read_csv("./Data/Out/Labels_clean.csv")
 
 indicator_index = build_index(
     labels.full_label;
-    chunker_kwargs = (; sources = code_in_stat)
+    chunker_kwargs = (; sources = labels.code_in_stat)
 )
 
 answer = retrieve(indicator_index, "Proportion project goals new buildings")
