@@ -7,6 +7,8 @@ using JSON3
 using Tidier
 using RAGTools
 
+include("99_functions.jl")
+
 function codelist_from_json(url::String)
     response = HTTP.get(url)
     content = JSON3.read(response.body)
@@ -23,8 +25,16 @@ function codelist_from_json(url::String)
         push!(names,code.names[1].value)
     end
 
-    return DataFrame(code = String.(codes), label = String.(names))
+    return DataFrame(code = String.(codes), label = clean_label.(String.(names)))
 
+end
+
+function clean_label(label::String)
+    # Define the pattern: \n followed by one or more whitespace characters
+    pattern = r"\n\s+"
+    # Replace the pattern with a single space
+    cleaned_label = replace(label, pattern => " ")
+    return cleaned_label
 end
 
 url = "https://stats-fwb.pacificdata.org/sdmx/v2/structure/codelist/SPC/CL_BP50_INDICATORS/latest/?format=fusion-json"
@@ -32,15 +42,9 @@ url = "https://stats-fwb.pacificdata.org/sdmx/v2/structure/codelist/SPC/CL_BP50_
 labels = codelist_from_json(url)
 
 
-indicator_index = nothing
-indicator_index = build_index(
-    labels.label;
-    chunker_kwargs = (;
-    max_length = 400, # notice this, not magic: it comes from the maximum length of our codes!
-    sources = labels.code
-    )
-)
+indicator_index = build_indicator_index(labels_df)
 
 answer = retrieve(indicator_index, "Proportion goals new buildings")
+
 candidate_codes = answer.sources
 
