@@ -1,6 +1,6 @@
 using Pkg
 Pkg.activate("")
-Pkg.instantiate()
+#Pkg.instantiate()
 
 using HTTP
 using JSON3
@@ -14,7 +14,6 @@ function codelist_from_json(url::String)
 
     # this line is fragile, as other codelists _might_
     # be structured differently? reflect...
-
     codelist = content.Codelist[1].items
 
     codes = []
@@ -60,4 +59,4 @@ end
     return retrieve_similar_codes(this_query)
 end
 
-serve(host="0.0.0.0",port=8080)
+serve(host="0.0.0.0", port=8080)

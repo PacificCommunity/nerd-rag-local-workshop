@@ -14,7 +14,6 @@ function codelist_from_json(url::String)
 
     # this line is fragile, as other codelists _might_
     # be structured differently? reflect...
-
     codelist = content.Codelist[1].items
 
     codes = []
